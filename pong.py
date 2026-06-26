@@ -116,7 +116,7 @@ while running:
 
     screen.fill("purple")
 
-    # Variables for drawing the shame
+    # Variables for drawing the game
     pygame.draw.rect(screen, "white", player)
     pygame.draw.rect(screen, "white", player_two)
     pygame.draw.ellipse(screen, "white", ball)
